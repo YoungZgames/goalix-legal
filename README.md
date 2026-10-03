@@ -1,0 +1,2 @@
+# goalix-legal
+GOALİX
